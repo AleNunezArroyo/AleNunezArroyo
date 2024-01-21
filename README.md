@@ -11,7 +11,7 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
 * ES [¿Cómo la IA impactó a los programadores? Stack Overflow Developer Survey 2023](https://medium.com/@AleNunezArroyo/c%C3%B3mo-la-ia-impact%C3%B3-a-los-programadores-stack-overflow-developer-survey-2023-0d495c2cc41c)
 * ES [Inmersión en Inteligencia Artificial ¿Qué nos trajo el DevFest en Bolivia?](https://medium.com/@AleNunezArroyo/inmersi%C3%B3n-en-inteligencia-artificial-qu%C3%A9-nos-trajo-el-devfest-en-bolivia-b83dff93dfb6)
 
-# ⚡ Technologies I use
+# Technologies I use ⚡ 
 
 <div align="center">
   <table align="center">
