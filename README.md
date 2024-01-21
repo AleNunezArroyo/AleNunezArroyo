@@ -1,3 +1,7 @@
+<a href="">
+  <img width="100%" src="./assets/LinkedIn.png">
+</a>
+
 # Hi I'm Ale 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandronunezarroyo/)](https://www.linkedin.com/in/alejandronunezarroyo/)
