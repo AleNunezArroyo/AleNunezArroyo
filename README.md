@@ -13,8 +13,7 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
 
 # ⚡ Technologies I use
 
-</div>
-    <div align="center">
+<div align="center">
     <table align="center">
         <tr>
             <td align="center" width="140" height="112.43">
