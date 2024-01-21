@@ -18,21 +18,27 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
         <tr>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/Python.png" width="65px"/>
+                <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/LangChain.png" width="65px"/>
+                <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/MediaPipe.png" width="65px"/>
+                <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/HuggingFace.png" width="65px"/>
+                <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/OpenCV.png" width="65px"/>
+                <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/TensorFlow.png" width="65px"/>
+                <br /> Python
             </td>
         </tr>
     </table>
