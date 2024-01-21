@@ -17,7 +17,7 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
   <table align="center">
     <tr>
       <td align="center" width="110" height="110">
-        <img src="./assets/icons/Python.jpeg" width="65px"/>
+        <img src="./assets/icons/Python.png" width="65px"/>
       </td>
       <td align="center" width="110" height="110">
         <img src="./assets/icons/LangChain.png" width="65px"/>
