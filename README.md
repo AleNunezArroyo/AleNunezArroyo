@@ -17,27 +17,27 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
     <table align="center">
         <tr>
             <td align="center" width="70" height="70">
-                <img src="./assets/icons/Python.png" width="65px"/>
+                <img src="./assets/icons/Python.png" width="65px" height="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="70" height="70">
-                <img src="./assets/icons/LangChain.png" width="65px"/>
+                <img src="./assets/icons/LangChain.png" width="65px" height="65px"/>
                 <br /> LangChain
             </td>
             <td align="center" width="70" height="70">
-                <img src="./assets/icons/MediaPipe.png" width="65px"/>
+                <img src="./assets/icons/MediaPipe.png" width="65px" height="65px"/>
                 <br /> MediaPipe
             </td>
             <td align="center" width="70" height="70">
-                <img src="./assets/icons/HuggingFace.png" width="65px"/>
+                <img src="./assets/icons/HuggingFace.png" width="65px" height="65px"/>
                 <br /> HugginFace
             </td>
             <td align="center" width="70" height="70">
-                <img src="./assets/icons/OpenCV.png" width="65px"/>
+                <img src="./assets/icons/OpenCV.png" width="65px" height="65px"/>
                 <br /> OpenCV
             </td>
             <td align="center" width="70" height="70">
-                <img src="./assets/icons/TensorFlow.png" width="65px"/>
+                <img src="./assets/icons/TensorFlow.png" width="65px" height="65px"/>
                 <br /> TensorFlow
             </td>
         </tr>
