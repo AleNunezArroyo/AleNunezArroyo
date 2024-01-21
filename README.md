@@ -6,7 +6,8 @@
 
 Mechatronics Engineer with experience as a developer and researcher in Artificial Intelligence, specialized in Large Language Model (LLM) and Computer Vision (CV) for product development using state-of-the-art models.
 
-<!---
-AlejandroNunezArroyo/AlejandroNunezArroyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My latest articles on Medium ✍
+
+* ES [¿Cómo la IA impactó a los programadores? Stack Overflow Developer Survey 2023](https://medium.com/@AleNunezArroyo/c%C3%B3mo-la-ia-impact%C3%B3-a-los-programadores-stack-overflow-developer-survey-2023-0d495c2cc41c)
+* ES [Inmersión en Inteligencia Artificial ¿Qué nos trajo el DevFest en Bolivia?](https://medium.com/@AleNunezArroyo/inmersi%C3%B3n-en-inteligencia-artificial-qu%C3%A9-nos-trajo-el-devfest-en-bolivia-b83dff93dfb6)
+
