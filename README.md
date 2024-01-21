@@ -16,22 +16,22 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="150" height="150">
+      <td align="center" width="100" height="100">
         <img src="./assets/icons/Python.png" width="100px"/>
       </td>
-      <td align="center" width="150" height="150">
+      <td align="center" width="100" height="100">
         <img src="./assets/icons/LangChain.png" width="100px"/>
       </td>
-      <td align="center" width="150" height="150">
+      <td align="center" width="100" height="100">
         <img src="./assets/icons/MediaPipe.png" width="100px"/>
       </td>
-      <td align="center" width="150" height="150">
+      <td align="center" width="100" height="100">
         <img src="./assets/icons/HuggingFace.png" width="100px"/>
       </td>
-      <td align="center" width="150" height="150">
+      <td align="center" width="100" height="100">
         <img src="./assets/icons/OpenCV.png" width="100px"/>
       </td>
-      <td align="center" width="150" height="150">
+      <td align="center" width="100" height="100">
         <img src="./assets/icons/TensorFlow.png" width="100px"/>
       </td>
     </tr>
