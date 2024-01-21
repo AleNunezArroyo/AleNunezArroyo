@@ -16,30 +16,62 @@ Mechatronics Engineer with experience as a developer and researcher in Artificia
 <div align="center">
     <table align="center">
         <tr>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="70" height="70">
                 <img src="./assets/icons/Python.png" width="65px"/>
                 <br /> Python
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="70" height="70">
                 <img src="./assets/icons/LangChain.png" width="65px"/>
-                <br /> Python
+                <br /> LangChain
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="70" height="70">
                 <img src="./assets/icons/MediaPipe.png" width="65px"/>
-                <br /> Python
+                <br /> MediaPipe
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="70" height="70">
                 <img src="./assets/icons/HuggingFace.png" width="65px"/>
-                <br /> Python
+                <br /> HugginFace
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="70" height="70">
                 <img src="./assets/icons/OpenCV.png" width="65px"/>
-                <br /> Python
+                <br /> OpenCV
             </td>
-            <td align="center" width="140" height="112.43">
+            <td align="center" width="70" height="70">
                 <img src="./assets/icons/TensorFlow.png" width="65px"/>
-                <br /> Python
+                <br /> TensorFlow
             </td>
         </tr>
     </table>
 </div>
+
+<div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" width="70" height="70" style="width: 70px; height: 70px;">
+                <img src="./assets/icons/Python.png" width="65px" style="width: 100%; height: 100%; object-fit: cover;"/>
+                <br /> Python
+            </td>
+            <td align="center" width="70" height="70" style="width: 70px; height: 70px;">
+                <img src="./assets/icons/LangChain.png" width="65px" style="width: 100%; height: 100%; object-fit: cover;"/>
+                <br /> LangChain
+            </td>
+            <td align="center" width="70" height="70" style="width: 70px; height: 70px;">
+                <img src="./assets/icons/MediaPipe.png" width="65px" style="width: 100%; height: 100%; object-fit: cover;"/>
+                <br /> MediaPipe
+            </td>
+            <td align="center" width="70" height="70" style="width: 70px; height: 70px;">
+                <img src="./assets/icons/HuggingFace.png" width="65px" style="width: 100%; height: 100%; object-fit: cover;"/>
+                <br /> HugginFace
+            </td>
+            <td align="center" width="70" height="70" style="width: 70px; height: 70px;">
+                <img src="./assets/icons/OpenCV.png" width="65px" style="width: 100%; height: 100%; object-fit: cover;"/>
+                <br /> OpenCV
+            </td>
+            <td align="center" width="70" height="70" style="width: 70px; height: 70px;">
+                <img src="./assets/icons/TensorFlow.png" width="65px" style="width: 100%; height: 100%; object-fit: cover;"/>
+                <br /> TensorFlow
+            </td>
+        </tr>
+    </table>
+</div>
+
